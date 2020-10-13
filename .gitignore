@@ -1,1 +1,6 @@
-dataset/
+data_prep/data_for_modelling
+data_prep/rename_data
+data_prep/to_share
+modelling/model_result
+*/__pycache__
+*/logs
